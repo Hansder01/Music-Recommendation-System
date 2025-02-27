@@ -14,7 +14,7 @@ A **Streamlit-based Song Recommendation System** that suggests similar songs bas
 ### **1️⃣ Clone the Repository**  
 ```bash
 git clone https://github.com/Hansder01/Music-Recommendation-System.git
-cd song-recommendation
+cd Music-Recommendation-System
 ```
 
 ### **2️⃣ Install Dependencies**  
